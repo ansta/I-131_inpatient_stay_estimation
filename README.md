@@ -1,0 +1,1 @@
+inpatient_stay_duration_model.py contains code which was used to create the models for the inpatient stay duration estimation of patients treated with radioiodine for their benign or malignant pathology.
